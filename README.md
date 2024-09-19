@@ -1,5 +1,6 @@
 # RRH
-RED RIGHT HAND - ALPHA-1
+>  RED RIGHT HAND - ALPHA-1
+> 
 
 This plugin introduces an exciting new feature by adding a spawnable wave, enhancing gameplay and roleplaying experiences in unique ways. With this addition, players can enjoy increased variety and unpredictability during game sessions, keeping the experience fresh and engaging.
 
